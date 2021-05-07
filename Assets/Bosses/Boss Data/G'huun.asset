@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: G'huun
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 11400000, guid: 93fc1dfadab150c4ebb589cef41265f7, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: c86700a9b698df84791464c68a3aa757, type: 2}
+  - {fileID: 11400000, guid: 0f2bfa63fc2d62b44a1b6f225d4561a7, type: 2}
+  - {fileID: 11400000, guid: 3ceb4fe60f00f6d45abed0e76db4939a, type: 2}
+  - {fileID: 11400000, guid: 0d4a156e28a17e6489f64ecff5ecf677, type: 2}
+  - {fileID: 11400000, guid: 0bc3c3023fb632d49abb6a5f7dd936f2, type: 2}
+  - {fileID: 11400000, guid: 8a1ee31ef69ae7d478e9460fa03ef0ce, type: 2}
+  - {fileID: 11400000, guid: 61d67cea134dd004487b903692e21df5, type: 2}
+  - {fileID: 11400000, guid: 26c5e79ab5e18e94da60eb1cdd3442d7, type: 2}
+  zoneName: ULDIR
+  bossName: G'huun
+  bossOrder: 7
+  bossHpValue: 143031200
+  berserkInSeconds: 557
+  causeOfDeath: []

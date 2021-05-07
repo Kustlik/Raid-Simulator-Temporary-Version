@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Kirta
+  m_EditorClassIdentifier: 
+  playerName: Kirta
+  playerRole: Dps
+  playerClass: Mage
+  playerProximity: Ranged
+  dps:
+  - 2454642
+  - 2454642
+  - 4532557
+  - 435678
+  - 4357483
+  - 4353688
+  - 355633
+  - 2454642
+  - 3543567
+  - 345373
+  hps: []
+  survivability:
+  - 56.5
+  - 24.3
+  - 100
+  - 78.5
+  - 100
+  - 100
+  - 98.7
+  - 43.1
+  - 100

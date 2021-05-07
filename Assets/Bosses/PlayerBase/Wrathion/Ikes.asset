@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Ikes
+  m_EditorClassIdentifier: 
+  playerName: Ikes
+  playerRole: Dps
+  playerClass: Mage
+  playerProximity: Ranged
+  dps:
+  - 40194.4
+  - 32784.3
+  - 43657.6
+  - 45112.5
+  - 47953.6
+  - 53084.1
+  - 31815.7
+  - 58134.7
+  - 74650.5
+  - 67297.3
+  - 70944
+  - 68317.7
+  - 71179.5
+  - 70731
+  - 64384.2
+  - 72316.5
+  hps:
+  - 5835.3
+  - 4277.7
+  - 6915.3
+  - 9665.1
+  - 9165.5
+  - 9123.2
+  - 6114.3
+  - 8307.1
+  - 12812.8
+  - 8558.9
+  - 9893.5
+  - 10869.1
+  - 5639
+  - 5171.9
+  - 5052.6
+  - 6658.2
+  survivability:
+  - 56.5
+  - 24.3
+  - 100
+  - 78.5
+  - 100
+  - 100
+  - 43.1
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

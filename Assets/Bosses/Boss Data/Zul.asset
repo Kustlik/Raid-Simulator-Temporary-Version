@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Zul
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 11400000, guid: 93fc1dfadab150c4ebb589cef41265f7, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: c86700a9b698df84791464c68a3aa757, type: 2}
+  - {fileID: 11400000, guid: 0f2bfa63fc2d62b44a1b6f225d4561a7, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  - {fileID: 11400000, guid: d8a9309eadedeff488a287304d587b90, type: 2}
+  zoneName: ULDIR
+  bossName: Zul
+  bossOrder: 5
+  bossHpValue: 49749980
+  berserkInSeconds: 302
+  causeOfDeath:
+  - Unknown
+  benchEvent:
+  - Mumin Masturbated himself
+  howManyHealers: 1
+  howManyTanks: 1
